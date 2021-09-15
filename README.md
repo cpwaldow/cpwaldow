@@ -11,7 +11,7 @@ About me:
 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-2a2804105/), [Twitter](https://twitter.com/cewaldow), [Instagram](https://www.instagram.com/cwaldow/)
 
 <div align="left">
-  <a href="https://github.com/leandrorangel94/">
+  <a href="https://github.com/cpwaldow/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cpwaldow&show_icons=true&theme=dracula" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpwaldow&layout=compact" />
   </a>
