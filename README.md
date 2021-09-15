@@ -13,6 +13,6 @@ About me:
 <div align="center">
   <a href="https://github.com/cpwaldow/">
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=cpwaldow&show_icons=true&theme=dracula" />
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpwaldow&layout=compact" />
+    <img height="175em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpwaldow&layout=compact" />
   </a>
 </div>
