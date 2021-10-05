@@ -4,7 +4,7 @@
 
 About me:
 - My name is Carlos, i'm front-end developer from São Paulo, Brazil.
-- 🔭 I’m currently working on [ReclameAQUI](https://www.reclameaqui.com.br/)
+- 🔭 I’m currently working on [Trybe]https://www.betrybe.com/)
 - 🌱 I’m currently learning more about JavaScript, TypeScript, FrameworkJS (AngularJS and ReactJS) and Tests
 - 💬 Reach me:
 
