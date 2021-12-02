@@ -5,7 +5,7 @@
 About me:
 - My name is Carlos, i'm front-end developer from São Paulo, Brazil.
 - 🔭 I’m currently working on [Trybe](https://www.betrybe.com/)
-- 🌱 I’m currently learning more about JavaScript, TypeScript, FrameworkJS (AngularJS and ReactJS), Jest and React Testing Library
+- 🌱 I’m currently learning more about JavaScript, TypeScript, FrameworkJS, Jest, React Testing Library and TDD
 - 💬 Reach me:
 
 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-2a2804105/), [Twitter](https://twitter.com/cewaldow), [Instagram](https://www.instagram.com/cwaldow/)
