@@ -8,7 +8,7 @@ About me:
 - 🌱 I’m currently learning more about JavaScript, TypeScript, FrameworkJS, Jest, React Testing Library and TDD
 - 💬 Reach me:
 
-[LinkedIn](https://www.linkedin.com/in/carlos-eduardo-2a2804105/), [Twitter](https://twitter.com/cewaldow), [Instagram](https://www.instagram.com/cwaldow/)
+[LinkedIn](https://www.linkedin.com/in/carlos-eduardo-2a2804105/), [Twitter](https://twitter.com/cewaldow), [Instagram](https://www.instagram.com/cwaldow/),  [Dev.to](https://dev.to/cpwaldow)
 
 <div align="center">
   <a href="https://github.com/cpwaldow/">
