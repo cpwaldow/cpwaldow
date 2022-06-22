@@ -1,14 +1,29 @@
-### Hi there 👋
+### Bem-vindo, tripulante 👋       
+
+Sobre mim:
+- Oi, eu sou o Cadu! (Se você leu essa introdução com a voz do Wendel Bezerra com a voz do Goku, você é incrível)
+- Sou desenvolvedor front-end e instrutor de tecnologia
+- Atualmente trabalho na [Trybe](https://www.betrybe.com/)
+- Esporadicamente escrevo algo no [Dev.to](https://dev.to/cpwaldow)
+
+Faço algumas coisinhas em:
+<section style="display:flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="width: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="width: 40px"/>
+</section>   
 
 
+<h4>Como diria Charlie Brown Jr: "Me encontra ou deixa eu te encontrar"</h4>
 
-About me:
-- My name is Carlos, i'm front-end developer from São Paulo, Brazil.
-- 🔭 I’m currently working on [Trybe](https://www.betrybe.com/)
-- 🌱 I’m currently learning more about JavaScript, TypeScript, FrameworkJS, Jest, React Testing Library and TDD
-- 💬 Reach me:
-
-[LinkedIn](https://www.linkedin.com/in/carlos-eduardo-2a2804105/), [Twitter](https://twitter.com/cewaldow), [Instagram](https://www.instagram.com/cwaldow/),  [Dev.to](https://dev.to/cpwaldow)
+[LinkedIn](https://www.linkedin.com/in/carlos-eduardo-2a2804105/),
+[Instagram](https://www.instagram.com/cwaldow/)
+          
 
 <div align="center">
   <a href="https://github.com/cpwaldow/">
