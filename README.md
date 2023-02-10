@@ -16,6 +16,7 @@ Faço algumas coisinhas em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="width: 40px"/>
+  <img src="https://img.jsdelivr.com/raw.githubusercontent.com/styled-components/brand/master/styled-components.png" style="width: 40px"/>
 </section>   
 
 
