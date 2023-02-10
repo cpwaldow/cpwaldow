@@ -7,17 +7,8 @@ Sobre mim:
 - Esporadicamente escrevo algo no [Dev.to](https://dev.to/cpwaldow)
 
 Faço algumas coisinhas em:
-<section style="display:flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="width: 40px"/>
-  <img src="https://img.jsdelivr.com/raw.githubusercontent.com/styled-components/brand/master/styled-components.png" style="width: 40px"/>
-</section>   
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,git,github,react,styledcomponents,sass,bash,bootstrap)](https://skillicons.dev)
 
 
 <h4>Como diria Charlie Brown Jr: "Me encontra ou deixa eu te encontrar"</h4>
