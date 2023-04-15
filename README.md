@@ -8,7 +8,7 @@ Sobre mim:
 
 Faço algumas coisinhas em:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,git,github,react,styledcomponents,sass,bash,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,git,github,react,styledcomponents,sass,bash,bootstrap,typescript)](https://skillicons.dev)
 
 
 <h4>Como diria Charlie Brown Jr: "Me encontra ou deixa eu te encontrar"</h4>
