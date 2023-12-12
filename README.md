@@ -2,7 +2,7 @@
 
 Sobre mim:
 - Oi, eu sou o Cadu! (Se você leu essa introdução com a voz do Wendel Bezerra com a voz do Goku, você é incrível)
-- Sou desenvolvedor front-end e instrutor de tecnologia
+- Sou desenvolvedor front-end, QA e instrutor de tecnologia
 - Atualmente trabalho na [Trybe](https://www.betrybe.com/)
 - Esporadicamente escrevo algo no [Dev.to](https://dev.to/cpwaldow)
 
