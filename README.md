@@ -6,9 +6,9 @@ Sobre mim:
 - Atualmente trabalho na [Trybe](https://www.betrybe.com/)
 - Esporadicamente escrevo algo no [Dev.to](https://dev.to/cpwaldow)
 
-Faço algumas coisinhas em:
+Se quiser o mundo, pode escolher a ferramenta que te entrego:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,git,github,react,styledcomponents,sass,bash,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,html,css,jest,cypress,vitest,git,github,styledcomponents,sass,bash,bootstrap)](https://skillicons.dev)
 
 
 <h4>Como diria Charlie Brown Jr: "Me encontra ou deixa eu te encontrar"</h4>
