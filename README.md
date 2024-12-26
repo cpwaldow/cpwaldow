@@ -2,8 +2,8 @@
 
 Sobre mim:
 - Oi, eu sou o Cadu! (Se você leu essa introdução com a voz do Wendel Bezerra com a voz do Goku, você é incrível)
-- Sou desenvolvedor front-end, QA e instrutor de tecnologia
-- Atualmente trabalho no [ReclameAQUI]([https://www.betrybe.com/](https://www.reclameaqui.com.br/))
+- Sou desenvolvedor front-end e instrutor de tecnologia
+- Atualmente trabalho no [ReclameAQUI](https://www.reclameaqui.com.br/)
 
 Se quiser o mundo, pode escolher a ferramenta que te entrego:
 
