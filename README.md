@@ -7,7 +7,7 @@ Sobre mim:
 
 Se quiser o mundo, pode escolher a ferramenta que te entrego:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vite,html,css,jest,cypress,vitest,git,github,styledcomponents,sass,bash,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,redux,svelte,vite,html,css,jest,cypress,vitest,git,github,styledcomponents,sass,bash,bootstrap,materialui,tailwind,vercel)](https://skillicons.dev)
 
 
 <h4>Como diria Charlie Brown Jr: "Me encontra ou deixa eu te encontrar"</h4>
